@@ -50,4 +50,4 @@ Readme.txt                 this file
 
 Lua http://www.lua.org
 Independent JPEG Group http://www.ijg.org/
-LRun mailto:alek@crazyland.com
+LRun mailto:alekmarinov@gmail.com
