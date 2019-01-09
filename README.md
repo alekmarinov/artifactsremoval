@@ -24,11 +24,14 @@ Visual representation of DCTDT construction can be seen on the following video:
 
 ## Example result of image artifacts removal
 
-Input
+* Input
+
 ![Input image](doc/original.png "Input image")
 
-Binarized
+* Binarized
+
 ![Binarized image](doc/binary.png "Binarized image")
 
-Output
+* Output
+
 ![Output image](doc/filtered.png "Output image")
